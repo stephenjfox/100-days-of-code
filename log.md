@@ -29,11 +29,29 @@ I'm expecting to do a TodoMVC in AngularDart, some small concurrency experiments
 
 ### Day 1: January 12, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Not as much as I wanted. Spent a healthy chunk of time configuring the atom-dart plugin for a faster development cycle than that offered by IntelliJ. Wanted to get to more Javascript today, with Elliott's book, but I'm beat.
+
+**Thoughts**: For some reason, IntelliJ freezes up whenever Pub serves the web page. I think the plugin is doing upload work synchronously. Might make for a good PR.
+
+
+
+### Day 2: January 13, Friday
+
+**Today's Progress**: Complete AngularDart [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) tutorial. Pretty fun, and gives me grounds for the rest I have planned for the language. Pushed the repository to Github, so there are links now. Stalled on Javascript and Clojure, because of time constraints but I have a new plan: switch-when-stale. Dart hasn't gotten stale, and I've got 98 more days to go, but if I ever get tired of configuring "new" things I'll have plently to chew on.
 
 **Thoughts**:
 
+__Dart__:
+
+Since completing the Tour of Heroes, I want to see more of the reality of completing a full-sized app. There aren't many tutorials online, but the books I have will give me a general direction. I'm also starting to model, on paper, the work that will be needed for the E2E Dart app that I want to build. It's going to use [Flutter](flutter.io) and a web server, all written in Dart.
+
+
+__Clojure__ and __Javascript__:
+
+Another day where I didn't get to them.
+
+
 **Link(s) to work**
-1. [One of my Github Project](https://github.com/stephenjfox)
-2. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-3. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+1. [My Github](https://github.com/stephenjfox)
+2. [Tour of Heroes (with Dart)](https://github.com/stephenjfox/dart_tour_of_heroes)

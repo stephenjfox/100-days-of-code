@@ -61,17 +61,22 @@ Another day where I didn't get to them.
 
 ### Day 3: January 14, Saturday
 
-**Today's Progress**: Finished [dart_tour_of_heroes](https://github.com/stephenjfox/dart_tour_of_heroes). A __lot__ of setup for the backend to the mobile app
+**Today's Progress**: Finished [dart_tour_of_heroes](https://github.com/stephenjfox/dart_tour_of_heroes). A __lot__ of setup for the backend to the mobile app. I need to figure out how to strip my credentials so I can push to GitHub.
 
 **Thoughts**: I typically hate config, but today wasn't bad. (It might just be config on the JVM :P) The list of projects I have hasn't shrunk in the slightest, so it will be exciting to see if I actually start to finish them. Ambition is a great fuel for the flame, but can also set me up for epic disappointment.
 
 On a similar note, I genuinely want to chew through the books I listed. They are _excellent_. The writing styling in all of them is great for different reasons and I could learn so much from them. I seriously need a recommitment to myself to read those books! My current favorites (that I've read in the past) are Frisby's FP book and Programming Clojure. The bits I've read of Learning Dart are thorough and articulate in presentation of new material - I just haven't gotten to the feature rich applications yet.
+
+I don't want to "code in the closet", so if I find that all this configuration is taking me away from the code-y bits, I'll do something simple in a public space (here on GitHub). I've noticed that I haven't been sharing the links to my project work as we're required to do. For tomorrow!
 
 Onto the languages:
 
 __Dart__ and __Javascript__: Started the backend for the mobile app that I semi-ranted on. Can't deploy the Dart web server to the Azure environment I'm setting up, so I switched to Javascript. Bums me out just a little. I might still make it in Dart, after deploying a VM to my personal website.
 
 __Clojure__: The neglected, redheaded stepchild. :{ Soon, dear LISP. Soon. I stated it in a [blog post](https://medium.com/@sjf96/the-top-back-end-programming-languages-4528795fd9ba#.nmu4nkhrr), LISP was the most fun I've had programming in a while. There's no reason to be this negligent when I love the language so much!
+
+
+**Links to work**: Pending. __Will__ return.
 
 
 

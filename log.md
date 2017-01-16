@@ -81,3 +81,13 @@ __Clojure__: The neglected, redheaded stepchild. :{ Soon, dear LISP. Soon. I sta
 
 
 ### Day 4: January 15, Sunday
+
+**Today's Progress**: ToH is basically done. There's more CRUD functionality that the tutorial wants, but I think I'll do that on my own. I want to be comfortable with async programming, not just "guided". No Clojure work yet, though I've found a project that matches my (syntactic) skill level. Javascript server-side project is a bit of a moonshot; might not even be technically possible. But that's why we have simple projects too!
+
+**Thoughts**: Clojure is calling me - the spirit is willing, but the flesh is weak. Javascript hasn't been getting its just stay in my life; Dart is just so new! It's been around for 5-ish years, but the language is just so capable at expressing what I want from my programs, how could I __not__ use it?!!
+
+I'm disappointed in what little I got done today, but life happens. I barely met an hour and 15 minutes, and that's if you squint at the work I did. Way too much hand holding tutorial junk. I know what I can do, so it's time to do it.
+
+I think this log will be more like a short review, where the blog post will be a bit more long winded. Hopefully my writing will improve as time goes on .
+
+**Links**: See the [blog post](https://medium.com/@sjf96/100daysofcode-day-4-c91f80152ae#.yv29cc2q0). Any links would be found there.

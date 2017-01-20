@@ -91,3 +91,20 @@ I'm disappointed in what little I got done today, but life happens. I barely met
 I think this log will be more like a short review, where the blog post will be a bit more long winded. Hopefully my writing will improve as time goes on .
 
 **Links**: See the [blog post](https://medium.com/@sjf96/100daysofcode-day-4-c91f80152ae#.yv29cc2q0). Any links would be found there.
+
+
+
+### Day 5: January 16, Monday
+
+**Today's Progress**: Started to go above and beyond completion criteria for ToH. I want a single-screen, master-detail view a lot like [this](http://chancancode.github.io/hn-reader/about). Coded a simple foundation for an [address book](https://github.com/stephenjfox/js-address-book) and did some serious reading through the [awesome resources](https://github.com/sindresorhus/awesome)!
+
+**Thoughts**: I wasn't "in the mood" to code, which is weird because my mind is always itching to implement the next crazy idea. Outside life has been distracting me from doing things I enjoy, and I need to stop compromising my integrity over those things. 
+
+I've begun to appreciate the hesitation to adopt Dart as a main-stay language, but it genuinely has all the tools it needs at its disposal. Technically, even more, because of the JavaScript interop it offers. Dart can be do it, and probably a lot more simply than you'd expect.
+
+I've thrown a lot of excuses this New Year, and the month of January is flying by. It's really time to nut up or shut up.
+
+Clojure still becomes and, with my [new set of toys](https://github.com/razum2um/awesome-clojure), I'll have loads to unleash. If I comb through SICP and Programming Clojure again, the desire will hit me like a brick.
+
+**Links**: Anything missed will be covered in the [blog post](https://medium.com/@sjf96/100daysofcode-day-5-abf8e12a5ab7#.uip7sfs0u)
+

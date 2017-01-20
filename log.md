@@ -108,3 +108,11 @@ Clojure still becomes and, with my [new set of toys](https://github.com/razum2um
 
 **Links**: Anything missed will be covered in the [blog post](https://medium.com/@sjf96/100daysofcode-day-5-abf8e12a5ab7#.uip7sfs0u)
 
+
+### Day 6: January 19, Thursday
+
+**Today's Progress**: Completed the Portfolio Project at Free Code Camp
+
+**Thoughts**: No, you read that date right, I've been gone for three days. I'm a people pleaser and couldn't say "no" to a few people. 
+
+**Links**: It's really late at the time of writing this, so just check the [blog post](https://medium.com/@sjf96/day-6-100daysofcode-7928550e40af#.jrucvkows) for them.

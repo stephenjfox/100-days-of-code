@@ -130,3 +130,18 @@ Clojure still becomes and, with my [new set of toys](https://github.com/razum2um
 **Links**: 
 
 1. [The Quote Machine](http://codepen.io/stevemasta34/full/GrWmjJ/)
+
+
+
+### Day 8: January 21, Saturday
+
+**Today's Progress**: Random Quote Machine is feature complete, with a simple, flat UI. I've studied more ideas regarding CSS systems, and how to scale with them. I also broke my portfolio site (when adding the Random Quote Machine).
+
+**Thoughts**: Breaking the portfolio site just shows me I need to rewrite it. It's too damn fragile. It genuinely makes me angry that I dove into using some tech I didn't know (SCSS) and expected magic to happen; that's new-coder-entitlement if I ever saw it. It was even mobile-friendly! I'm keeping the color scheme, and tossing everything else.
+
+I have plans for LISP in my future. No more beating around the bush. Sunday will be a day of Clojure (double entendre). If I can ramp up fast enough, I might even try ClojureScript. But, first things first: let's do one thing at a time and actually get a day with Clojure in it.
+
+**Links**:
+
+1. [The (broken) Portfolio](http://codepen.io/stevemasta34/full/GZLydE)
+2. [The Random Quote Machine](http://codepen.io/stevemasta34/full/GrWmjJ/)

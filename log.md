@@ -145,3 +145,14 @@ I have plans for LISP in my future. No more beating around the bush. Sunday will
 
 1. [The (broken) Portfolio](http://codepen.io/stevemasta34/full/GZLydE)
 2. [The Random Quote Machine](http://codepen.io/stevemasta34/full/GrWmjJ/)
+
+
+### Day 9: January 22, Sunday
+
+**Today's Progress**: A new low - only just shy of missing the day. Reviewed my Clojure notes and jogged my memory. No JS. No Dart.
+
+**Thoughts**: I'm glad I took such good notes the last time I studied Clojure (August 2016!!!), in such [a good IDE](lighttable.com). The inline evaluation makes prototyping a sinch. I still haven't tested it for an application, but for the functions I threw together while reading, pushing the language: "Oh I wonder if this will compile... Okay, now does it do what I want it to? ... And corner cases... This language is so awesome."
+
+**Links**:
+I know there supposed to be links to prove that we did something, but it was mostly a review and my scratch pad.
+(3 minutes later). Actually, I do have __something__: [my scratch repo](https://github.com/stephenjfox/clojure_scratch)

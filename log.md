@@ -154,5 +154,20 @@ I have plans for LISP in my future. No more beating around the bush. Sunday will
 **Thoughts**: I'm glad I took such good notes the last time I studied Clojure (August 2016!!!), in such [a good IDE](lighttable.com). The inline evaluation makes prototyping a sinch. I still haven't tested it for an application, but for the functions I threw together while reading, pushing the language: "Oh I wonder if this will compile... Okay, now does it do what I want it to? ... And corner cases... This language is so awesome."
 
 **Links**:
+
 I know there supposed to be links to prove that we did something, but it was mostly a review and my scratch pad.
-(3 minutes later). Actually, I do have __something__: [my scratch repo](https://github.com/stephenjfox/clojure_scratch)
+(3 minutes later). 
+
+Actually, I do have __something__: [my scratch repo](https://github.com/stephenjfox/clojure_scratch)
+
+
+### Day 10: January 23, Monday
+
+**Today's Progress**: HUGE progress today. "A Day of Dart" is what I'll call it. Completed the first chapter of "Learning Dart". Reviewed a little Clojure and looked at a more complete dev environment setup.
+
+**Thoughts**: Like I said, I complete the first chapter of "Learning Dart" and I love the book: it's like it was written with me in mind. Sure there are explanations that cover rudimentary concepts, but I __learned__ so much reading through it! It was great. I'm going to ride this out for a little while. For about 20 minutes today, I juggled between hopping to Clojure (because it was on the list) and powering through with the high of coding Dart. Guess which one I chose ;)
+
+
+**Links**: 
+
+1. [Dart To-Do List](https://github.com/stephenjfox/jubilant-todo)

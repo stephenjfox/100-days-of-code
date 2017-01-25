@@ -171,3 +171,17 @@ Actually, I do have __something__: [my scratch repo](https://github.com/stephenj
 **Links**: 
 
 1. [Dart To-Do List](https://github.com/stephenjfox/jubilant-todo)
+
+
+
+### Day 11: January 24, Tuesday
+
+**Today's Progress**: Basics of the to-do list are up, with a non-persistent, HTML-orient model right now. Will progress to data-oriented model in the future.
+
+**Thoughts**: I will do more in the future, but I'm really glad today wasn't lost; all this happened because I made it so. Tomorrow, Javascript should get some attention - either the Address Book or the [weather app for FreeCodeCamp](https://www.freecodecamp.com/challenges/show-the-local-weather). When I need more momentum, I can use books for inspiration, so I'm sure that will help tomorrow.
+
+**Links**:
+
+1. [Dart To-Do List](https://github.com/stephenjfox/jubilant-todo) (4-ish new commits)
+
+2. Blog post (coming soon)

@@ -207,6 +207,8 @@ Paranoid? Most likely. Effective? Definitely.
 
 1. [Address Book in question](https://github.com/stephenjfox/js-address-book)
 
+2. [Blog post](https://medium.com/@sjf96/day-13-of-100daysofcode-d229625a9b2d#.njel3xpgk)
+
 
 ----
 
@@ -215,4 +217,5 @@ I'm going to redo days 12 and 13. I can't recall any serious work from day 12, a
 This Saturday and Sunday (January 28 and 29, respectively) will be Days 12 and __14__, as 13 was a genuine few hours of work, with public commits and all.
 
 After this update, I will have a reposting of Day 12. Then, Sunday, I will continue with 14. Like a normal person. :)
+
 ----

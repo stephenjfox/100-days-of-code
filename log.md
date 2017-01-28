@@ -184,4 +184,35 @@ Actually, I do have __something__: [my scratch repo](https://github.com/stephenj
 
 1. [Dart To-Do List](https://github.com/stephenjfox/jubilant-todo) (4-ish new commits)
 
-2. Blog post (coming soon)
+2. [Blog post](https://medium.com/@sjf96/day-11-of-100days-of-code-69a8ea603d8f)
+
+
+### Day 12: January 26
+
+**Today's Progress**: Very low. Technical difficulties caused frustration at my first swing at development.
+
+**Thoughts**: Spent the majority of my evening studying the Korean language, so I was actually limited in time I could devote to code. More than necessary, I listened to a friend talk and that took time away from the challenge. I'm tempted to not count this day, only to make up for it on the weekend.
+
+
+### Day 13: January 27
+
+**Today's Progress**: Address book and package manager cruft. 
+
+**Thoughts**: I spent WAY too long working with yarn and npm to have any substantial progress.
+Setup a new working structure, where each segment of the address book will have its own branch. That way, I won't be able to program strange interdependencies.
+
+Paranoid? Most likely. Effective? Definitely.
+
+**Links**:
+
+1. [Address Book in question](https://github.com/stephenjfox/js-address-book)
+
+
+----
+
+I'm going to redo days 12 and 13. I can't recall any serious work from day 12, and it's shameful. Starting Monday - the 30th - with a solid Day 15 is what I want.
+
+This Saturday and Sunday (January 28 and 29, respectively) will be Days 12 and __14__, as 13 was a genuine few hours of work, with public commits and all.
+
+After this update, I will have a reposting of Day 12. Then, Sunday, I will continue with 14. Like a normal person. :)
+----

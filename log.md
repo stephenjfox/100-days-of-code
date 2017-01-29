@@ -214,8 +214,20 @@ Paranoid? Most likely. Effective? Definitely.
 
 I'm going to redo days 12 and 13. I can't recall any serious work from day 12, and it's shameful. Starting Monday - the 30th - with a solid Day 15 is what I want.
 
-This Saturday and Sunday (January 28 and 29, respectively) will be Days 12 and __14__, as 13 was a genuine few hours of work, with public commits and all.
+This Saturday and Sunday (January 28 and 29, respectively) will be Days 12.1 and __14__, as 13 was a genuine few hours of work, with public commits and all.
 
 After this update, I will have a reposting of Day 12. Then, Sunday, I will continue with 14. Like a normal person. :)
 
 ----
+
+
+### Day 12.1: Saturday, January 28
+
+**Today's Progress**: I learned a lot about the [AngularDart Material Component library](https://www.dartdocs.org/documentation/angular2_components/0.2.2/angular2_components/angular2_components-library.html)
+as well as Dart's support for Angular. I completed a code lab. Did some work on a private project; I'm charged with a component to develop. I have permission to use AngularDart, but JavaScript may be wiser for project longevity. But then again, that's why Dart was made. Time will have to tell.
+
+**Thoughts**: Highly illuminating material. Google uses BEM CSS and I've got [proof](https://github.com/dart-lang/one-hour-codelab/blob/master/angular2_components/4-final/lib/lottery_simulator.css#L22). I guess that settles that, if I dream of becoming a Googler some day (it __still__ has its appeal after my first flunked interview).
+
+**Links**:
+
+1. Complete [code lab](https://github.com/stephenjfox/angular2-components-codelab)

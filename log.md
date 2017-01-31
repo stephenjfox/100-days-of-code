@@ -231,3 +231,23 @@ as well as Dart's support for Angular. I completed a code lab. Did some work on 
 **Links**:
 
 1. Complete [code lab](https://github.com/stephenjfox/angular2-components-codelab)
+
+
+
+### Day 14: Monday, January 30
+
+**Progress**: 
+ 
+ * I cleaned up the Dart To-Do app that I've been working on. It's nothing special so far, but it could be quite respectable very soon.
+ 
+ * More research into CSS methodologies, re-reading some articles that once seemed exhausted of new knowledge grants new insight.
+
+**Thoughts**: There is just so much to CSS. These methodologies are all competing over my mind space. Which will stick! I feel a little disorganized between the blog post and this log, but I think I've given myself a poor structure for a worklog in this fashion. This is __not__ how I do work logs. For the past week, I've been writing these after the blog post itself.
+
+Still, one gets a different look at me here than there. I'm figuring things out, one day at a time.
+
+**Links**:
+
+1. I'll be more thorough in the [blog post](https://medium.com/@sjf96/day-14-100daysofcode-fac14e9a9978#.fiji1bmo6)
+2. [To-Do app](https://github.com/stephenjfox/jubilant-todo)
+3. [JS Address Book](https://github.com/stephenjfox/js-address-book)

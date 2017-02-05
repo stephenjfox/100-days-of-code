@@ -251,3 +251,17 @@ Still, one gets a different look at me here than there. I'm figuring things out,
 1. I'll be more thorough in the [blog post](https://medium.com/@sjf96/day-14-100daysofcode-fac14e9a9978#.fiji1bmo6)
 2. [To-Do app](https://github.com/stephenjfox/jubilant-todo)
 3. [JS Address Book](https://github.com/stephenjfox/js-address-book)
+
+
+----
+
+Days 15-18 have been elided. There was work done in the veign of technical research, resource aggregation, and coding samples. I've changed my principles to align more with those outlined in Chingu [P1xt](https://medium.com/@P1xt)'s [guide](https://forum.freecodecamp.com/t/computer-guide-computer-science-and-web-development-comprehensive-path/64470), namely:
+
+1. have git commits every week, most of the days of the week
+2. Be active in my Chingu Cohort
+3. "take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned"
+4. if you build something, document it and test it as appropriate. __I'm expanding on this__: I will report it to Twitter, concistently
+5. build projects fully, not some scaled down halfassery
+
+----
+

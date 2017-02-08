@@ -265,3 +265,17 @@ Days 15-18 have been elided. There was work done in the veign of technical resea
 
 ----
 
+
+The bullet points will be in the blog post from now on. This is just going to be my brain dump...
+
+### Day 19: February 7, 2017
+
+The project I'm working is effectively a specialized component/control for self-run, in-persion, client-oriented businesses. It's going to be beautiful, and it's going to be useful. But I've got work to do, because the component libraries aren't going to code this for me.
+
+There aren’t any __real__ out-of-the-box solutions for this kind of thing, so I need to make a complex component or two. That's fine, as I'll get all the joy of flexing my [TS](http://www.typescriptlang.org/index.html) muscles again.
+
+This day of work has been such a burn: work was mentally boring and trying to recover from that to knock out an awesome project is tough. I just have to found on to my flame - the desire to build excellence - to keep going...
+
+Angular 2 is easy stuff, but things aren't wired the same as AngularDart; I had forgotten because AngularDart is close _enough_, but makes small changes (like importing with the `directives` attribute on the Component annotation object, or the list-literal usage). It's genuinely weird that what was a full-blown HTML Element in AngularDart is just a directive attribute in Angular Material 2. I sincerely like the AngularDart was of doing things more: you can just read the HTML and know that you aren't hacking the hell out of the native stuff. You're just using the native stuff as the atomic building blocks.
+
+Man, my day job left me feeling grouchy. So many processes to fix... (concluded in blog post)

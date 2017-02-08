@@ -288,11 +288,11 @@ If it's not apparent, Clojure has been dropped for the short term. I've been doi
 
 ## New Book List
 
-1) [Site Reliability Engineering](g.co/SREBook) - by SREs (former and current) at Google
-2) [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+- [Site Reliability Engineering](g.co/SREBook) - by SREs (former and current) at Google
+- [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
   - A broad, blended, and passionately written work covering "programming with functions" with Javascript as a lens.
   - The book starts with "basics" but I have an endorsement from [Eric Elliott](https://twitter.com/_ericelliott) that there's much to learn for anyone who works in JS.
-3) [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
+- [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
   - ES6 (sans modules) is basically [supported in all browsers](https://kangax.github.io/compat-table/es6/), but not in Node or most of it's tool
   - Namely, [Gulp](https://css-tricks.com/transpiling-es6/), Grunt, and WebPack 1 don't know what to do with ES6-standard Javascript. So we need to compile it with Babel (because [traceur](https://github.com/google/traceur-compiler) kind of sucks and doesn't get updated).
 

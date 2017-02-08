@@ -278,7 +278,7 @@ This day of work has been such a burn: work was mentally boring and trying to re
 
 Angular 2 is easy stuff, but things aren't wired the same as AngularDart; I had forgotten because AngularDart is close _enough_, but makes small changes (like importing with the `directives` attribute on the Component annotation object, or the list-literal usage). It's genuinely weird that what was a full-blown HTML Element in AngularDart is just a directive attribute in Angular Material 2. I sincerely like the AngularDart was of doing things more: you can just read the HTML and know that you aren't hacking the hell out of the native stuff. You're just using the native stuff as the atomic building blocks.
 
-Man, my day job left me feeling grouchy. So many processes to fix... (concluded in blog post)
+Man, my day job left me feeling grouchy. So many processes to fix... (concluded in [blog post](https://medium.com/@sjf96/day-19-of-100daysofcode-4d72f66ea4#.gfna92l9g) )
 
 ----
 

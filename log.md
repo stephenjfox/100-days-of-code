@@ -279,3 +279,23 @@ This day of work has been such a burn: work was mentally boring and trying to re
 Angular 2 is easy stuff, but things aren't wired the same as AngularDart; I had forgotten because AngularDart is close _enough_, but makes small changes (like importing with the `directives` attribute on the Component annotation object, or the list-literal usage). It's genuinely weird that what was a full-blown HTML Element in AngularDart is just a directive attribute in Angular Material 2. I sincerely like the AngularDart was of doing things more: you can just read the HTML and know that you aren't hacking the hell out of the native stuff. You're just using the native stuff as the atomic building blocks.
 
 Man, my day job left me feeling grouchy. So many processes to fix... (concluded in blog post)
+
+----
+
+If it's not apparent, Clojure has been dropped for the short term. I've been doing a few practice algorithms in it around once a week, but nothing to bat an eyelash at.
+
+----
+
+## New Book List
+
+1) [Site Reliability Engineering](g.co/SREBook) - by SREs (former and current) at Google
+2) [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+  - A broad, blended, and passionately written work covering "programming with functions" with Javascript as a lens.
+  - The book starts with "basics" but I have an endorsement from [Eric Elliott](https://twitter.com/_ericelliott) that there's much to learn for anyone who works in JS.
+3) [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
+  - ES6 (sans modules) is basically [supported in all browsers](https://kangax.github.io/compat-table/es6/), but not in Node or most of it's tool
+  - Namely, [Gulp](https://css-tricks.com/transpiling-es6/), Grunt, and WebPack 1 don't know what to do with ES6-standard Javascript. So we need to compile it with Babel (because [traceur](https://github.com/google/traceur-compiler) kind of sucks and doesn't get updated).
+
+Everything else I've been reading has been put on hold, because these are books of principles and largely applicable technologies. The others were more directed application of a given language.
+I want to be a principled man.
+

@@ -299,3 +299,21 @@ If it's not apparent, Clojure has been dropped for the short term. I've been doi
 Everything else I've been reading has been put on hold, because these are books of principles and largely applicable technologies. The others were more directed application of a given language.
 I want to be a principled man.
 
+
+----
+
+### Day 22: February 22, 2017
+
+Omissions addressed in the [blog](https://medium.com/@sjf96).
+
+Dang it CSS is frustrating. I __know__ it, but when I go to execute I'm stopped at the door. Take for example, centering an element horizontally. To the CSS novice, this seems like a complex and mystical thing that should be relatively straight forward (would a style like "align: center" make sense?) and yet aludes one.
+
+Then, they wander into this little nugget `margin: 0 auto; /* centers element */` and you think you're the freaking Wizard of Oz... Has __never__ worked for me in a CodePen, and that's the project requirement for these Free Code Camp challenges.
+
+I'm an engineer, who gets off on making things work. I'll be the first to admit. But when one exercises the enumeration of possible state combinations and none produce the desired result, you find yourself quite agitated. This is what has occurred this evening working with horizontal centering with my cascaded styles.
+
+___Aside___
+We should really find another way to write for the web. HTML and CSS were meant for static documents of the 90's. It's almost 2020.
+___End Aside___
+
+[10 minutes post rant] I read [this](https://css-tricks.com/centering-css-complete-guide/), so I hope I can execute on that...

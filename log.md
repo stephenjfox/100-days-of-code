@@ -341,3 +341,7 @@ You know what? After reading that, it sounds silly to do the latter. Thanks.
 Since I'm going for a Material-theme, I want minimal margin with substantial padding. I'm sure [the basics](http://learn.shayhowe.com/html-css/positioning-content/) will help me!
 
 [Another 15 minutes later] I love CSS variables. And color palette pickers like [Material Palette](https://www.materialpalette.com). They help me hone the vision.
+
+Reread [this article](https://medium.freecodecamp.com/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb#.m5sanrpyd) to remember JavaScript event delegation patterns, so I don't have runaway Function objects polluting my heap.
+
+Feature completion feels pretty good.

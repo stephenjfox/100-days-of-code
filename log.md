@@ -317,3 +317,27 @@ We should really find another way to write for the web. HTML and CSS were meant 
 ___End Aside___
 
 [10 minutes post rant] I read [this](https://css-tricks.com/centering-css-complete-guide/), so I hope I can execute on that...
+
+
+
+### Day 23: February 23, 2017
+
+Typing that is going to feel a little redundant for the rest of the month (the days are the same).
+
+This Local Weather app is giving me a surprising amount of trouble. I have this beautiful vision in my head, and nary the skills to create that from scratch. Haven't been coerced into using libraries for the majority of my career, I've simple short on practice. Very far behind the 10,000-some odd hours to be an expert in something; whereas with Java, that's a different matter...
+
+So here I am, fumbling about. Strong CSS principles and vision in mind. My hand drawing skills are rather bad at getting my imagination onto paper, but I know what I want to app to look like: Material, through and through.
+
+__A Goal__: To have the page color scheme change with the weather. I.e. "Snowy" weather is white, gray, and blues. "Hot" weather is red, tan, orange. etc.
+
+Tonight, I've already recorded almost two hours of work and the page is still, _roughly_ the same ugliness it was last night: a bit of logical over complication and strict adherence to principles slowed me down.
+
+[10 minutes later] BEM. I appreciate the flat approach to everything. It removes dependencies and, as such, allows one to think about things independently of one another. "If I was just working with X, what would I need to do to change it?" That's the idea anyway. So each specialized class has just a few lines that describe exactly what you want to happen and nothing else - because nothing else is effecting the class, is it? Highest specificity wins in the land of CSS selectors.
+
+I'm struggling with how to box the icon for the weather (a mandatory feature). If I house the image in a box, is that unnecessary boxing of HTML primitives? Or should I put the image in a box, style the box, and then further style the image?
+
+You know what? After reading that, it sounds silly to do the latter. Thanks.
+
+Since I'm going for a Material-theme, I want minimal margin with substantial padding. I'm sure [the basics](http://learn.shayhowe.com/html-css/positioning-content/) will help me!
+
+[Another 15 minutes later] I love CSS variables. And color palette pickers like [Material Palette](https://www.materialpalette.com). They help me hone the vision.

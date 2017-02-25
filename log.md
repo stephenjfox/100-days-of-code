@@ -345,3 +345,41 @@ Since I'm going for a Material-theme, I want minimal margin with substantial pad
 Reread [this article](https://medium.freecodecamp.com/3-questions-to-watch-out-for-in-a-javascript-interview-725012834ccb#.m5sanrpyd) to remember JavaScript event delegation patterns, so I don't have runaway Function objects polluting my heap.
 
 Feature completion feels pretty good.
+
+
+### Day 24: February 24, 2017
+
+I'm starting really late today (it's 11PM), so I'll just be squeezing things in. Flat UI is where I want to go; the "Material" label has been clouding my vision.
+
+I've got my HTML organized fairly well, along with BEM styles to boot. Being sick is making it a huge pain to just sit down in this chair and code.
+
+##### 11:15 PM
+
+So horizontally centering an element is `margin: 0 auto;`, but what's vertical centering? Likewise, it's `margin: auto 0;`. But that's a weird thing to achieve.
+
+After a bunch of fiddling, I've settled on a box height for the main view of 66.5%. This is what works best on my iPhone 7+, so now I'm going to test it elsewhere.
+Building mobile first is just that: test on a mobile device, and make sure things scale.
+
+On desktop, this sizing is too much. I think it has to do with my `height` measurements compensating for the CodePen banner.
+
+##### 11:38 PM
+
+Messing with the view port took a view. CodePen magnifies the port significantly. Time to start playing with font sizes (it was on the list anyway).
+
+##### 11:56 PM
+
+Aligning the left side of the text of my "latitude" and "longitude" fields with the "weather content" box's left wall is kind of tough. I'm not certain where the "centering" of text takes place in regards to this
+
+##### 12:06 PM
+
+There is a runaway element styling on my page. The footer isn't receiving any styles, so I'm probably going to ditch it.
+
+##### 12:16 PM
+
+Following the Material Design (I know, I know) rules for pixel sizing, using multiples of 8px and 16px.
+
+##### 12:23 PM
+
+I'll be giving it a rest for the night. My brain will organize my thoughts into clarity while I sleep and I'll have something structured to say for the blog post.
+
+Maybe I should just put the button back, instead of trying to be clever with clicking the temperature units...

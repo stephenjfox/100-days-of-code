@@ -383,3 +383,30 @@ Following the Material Design (I know, I know) rules for pixel sizing, using mul
 I'll be giving it a rest for the night. My brain will organize my thoughts into clarity while I sleep and I'll have something structured to say for the blog post.
 
 Maybe I should just put the button back, instead of trying to be clever with clicking the temperature units...
+
+
+### Day 25: February 25, 2017
+
+##### 11:26 PM
+
+I think I'm on a mission to prove to myself that I can jog in CSS circles forever. Between adherence to strict [BEM rules](https://en.bem.info/methodology/key-concepts/) and stateless JavaScript, I'm working overtime on some really simple stuff.
+
+Look here. The Local Weather app is done, in effect. 
+
+- [x] Icon for the weather (free from Apixu)
+- [x] Local temperature on page load
+- [x] Click-a-thing to toggle Fahrenheit/Celsius.
+
+It's just not good looking. I would think that making a modern, flat UI for such a simple app would be more simple. Obviously mistaken.
+
+I just remembered a border-decoration (or something like that) to use on `button` to get it looking flat. :) Let's see what I can get up to in a few minutes...
+
+##### 11:40 PM
+
+Screw it. I'm using the Material Design visual template and attempting a re-create (almost like [the guide from p1xt](https://forum.freecodecamp.com/t/computer-guide-computer-science-and-web-development-comprehensive-path/64470))
+
+##### 11:53 PM
+
+It's a lot cleaner now, but the UI doesn't match a phone very well. The magnified view from CodePen is totally throwing me off.
+
+At this point, I need to adjust things like `background` and `width` to get the fill color-correct.

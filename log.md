@@ -410,3 +410,9 @@ Screw it. I'm using the Material Design visual template and attempting a re-crea
 It's a lot cleaner now, but the UI doesn't match a phone very well. The magnified view from CodePen is totally throwing me off.
 
 At this point, I need to adjust things like `background` and `width` to get the fill color-correct.
+
+##### 12:04 AM (next day)
+
+I've scrapped `margin` and `padding` because they were just playing me in a weird place on the screen. Almost identical to the [material palette](https://www.materialpalette.com/blue-grey/light-blue) sample, but the gratuitous white space needs addressing.
+
+I'm going to blog, then we'll catch up tomorrow.

@@ -416,3 +416,17 @@ At this point, I need to adjust things like `background` and `width` to get the 
 I've scrapped `margin` and `padding` because they were just playing me in a weird place on the screen. Almost identical to the [material palette](https://www.materialpalette.com/blue-grey/light-blue) sample, but the gratuitous white space needs addressing.
 
 I'm going to blog, then we'll catch up tomorrow.
+
+
+### Day 26: February 26, 2017
+
+Codes for Jesus (thanks Bro Science)! I'm giving myself an hour to get the view to look decent enough for my tastes. I'm fiddling with the height and verticle-centering, while listening to K-pop, so I can just have this done.
+
+27 minutes. I'm calling it. I'm conceptually stuck at this point, but it looks ok. There's not a ton of content to style around, so I've got limited resources to design. That's an excuse. I'm really just unsure of where to go from here, to ask the right questions.
+
+The CSS that I'm writing isn't giving me the desired result of a "main content" with a fixed size. Instead, the main content block snaps to a new size once its content is hydrated (loaded). It's very upsetting. Maybe I'll have something later.
+Making use of blank space is something I need to master, because the next app is a Wikipedia viewer: a small scale search engine, that I'm planning to do a "master-detail" setup for.
+
+On small devices (width &lt;600px) the plan is to use a completely different set of styles, which I think is how it is supposed to always be done. I'm going to Material palette again for the color scheme, but everyone knows Wikipedia is black-white-and-gray-scale.
+
+You know what? I just thought that I could have the cohort (Chingu-Penguins, Gen. 1) peer critique it and help me make it better. I know it's not beautiful. Or maybe I should just keep going, get my cert, then come back for seconds after my skills have improved? Who knows?

@@ -447,3 +447,5 @@ Worse yet, I've had the algorithm for at iterative implementation in my head all
 Hang on a sec. I'm going to try it out. My pride isn't that great.
 
 [4 minutes and 47 seconds later] Yup. It works. Like a charm. And now I know how to do it with reduce... -\_- Teaching myself is both boring and fascinating sometimes.
+
+[Less than 3 minutes later] It's just that easy kids. Now I need to handle edge cases, like 0 and 1 functions. Then it's good for a pretty little bow

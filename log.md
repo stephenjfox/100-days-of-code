@@ -430,3 +430,18 @@ Making use of blank space is something I need to master, because the next app is
 On small devices (width &lt;600px) the plan is to use a completely different set of styles, which I think is how it is supposed to always be done. I'm going to Material palette again for the color scheme, but everyone knows Wikipedia is black-white-and-gray-scale.
 
 You know what? I just thought that I could have the cohort (Chingu-Penguins, Gen. 1) peer critique it and help me make it better. I know it's not beautiful. Or maybe I should just keep going, get my cert, then come back for seconds after my skills have improved? Who knows?
+
+
+### Day 27: February 27, 2017
+
+##### 10:16 PM
+
+This whole blog-once-every-two-days thing is really weird. Why not just get those posts out daily?
+
+Today I spent an hour and change try to coax a "compose" function into life. So far, I've had limited success:
+
+- While I'm able to create a function that composes on two and three inputs, moving to a functional reduce doesn't provide a compliant solution.
+
+Worse yet, I've had the algorithm for at iterative implementation in my head all afternoon. But see, when it comes to being principled, I'm a stictler (and occasional asshole) on the inside.
+
+Hang on a sec. I'm going to try it out. My pride isn't that great.

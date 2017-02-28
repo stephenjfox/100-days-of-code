@@ -446,6 +446,31 @@ Worse yet, I've had the algorithm for at iterative implementation in my head all
 
 Hang on a sec. I'm going to try it out. My pride isn't that great.
 
-[4 minutes and 47 seconds later] Yup. It works. Like a charm. And now I know how to do it with reduce... -\_- Teaching myself is both boring and fascinating sometimes.
+##### 10:26 PM
 
-[Less than 3 minutes later] It's just that easy kids. Now I need to handle edge cases, like 0 and 1 functions. Then it's good for a pretty little bow
+Yup. It works. Like a charm. And now I know how to do it with reduce... -\_- Teaching myself is both boring and fascinating sometimes.
+
+##### 10:29 PM
+
+It's just that easy kids. Now I need to handle edge cases, like 0 and 1 functions. Then it's good for a pretty little bow
+
+##### 10:38 PM
+
+Dang it. I knew I was doing something off. Compose consumes right to left, such that the definition is more human readable.
+
+Ex:
+
+```
+// just some setup to get you thinking in code again.
+const head = (array) => array[0];
+const toUpperCase = (string) => string.toUpperCase();
+const reverse = (array) => array.reverse(); // imagine Array.prototype.reverse() isn't an in-place operation, for brevity
+
+const last = compose(head, reverse);
+```
+
+You can read the definition of "last" as "the head of the reversed list". The way I wrote my compose (consuming left to right) it reads more like "reverse the list, then take its 'head' element".
+
+This reads a lot more like "how" to do something, rather than "what" to do (which is what functional programming is all about).
+
+Lessons learned for the future.

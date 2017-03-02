@@ -474,3 +474,35 @@ You can read the definition of "last" as "the head of the reversed list". The wa
 This reads a lot more like "how" to do something, rather than "what" to do (which is what functional programming is all about).
 
 Lessons learned for the future.
+
+
+### Day 29: March 1, 2017
+
+##### 10:28 PM
+
+I still haven't finished writing about the machine learning meetup from yesterday. Hopefully, this doesn't spoiler it too much.
+
+That's the __real__ trouble with this challenge: the posting to social media. My life is far removed from social networking, that having a visible commitment on something that I've extracted from my life... It's like going to my ex-girlfriend's for dinner. I might get fed, but it's not very enjoyable.
+
+I love the coding. And I'm definitely getting better at writing by blogging (almost) everyday. It's just a weird problem to have: "I need to say all these things. Online. When I know that I've done them. That all said, having to perform for people does get a different result out of me.
+I'm just whining at this point.
+
+##### 10:32 PM
+
+Algorithms. Of the practical variety. I'm implementing a point-free-form "compose" function. The version I had the other day required that you think from the bottom-up, and this version works from the top down.
+
+I personally like the top-down approach, because it's a touch more declarative and reads "matter of fact"-ly. If you want _something_, you state what that something is.
+
+To re-use an earlier example: "I want the last element in a list... What's the 'last' element, you say? Well, I suppose, if we were looking from the other end, it would be the very first one." And, again, telling the computer the how - "spin the list around, then give me the first thing you find" - is practically imperative.
+
+__The bug I've got__ right now is strange: `String.prototype.length` isn't returning its length, but instead is returning itself. I must have misdefined something, so I'm going to type them back out.
+
+##### 10:46 PM
+
+Thanks to the REPL, I figured it out. Then it was just some tweaking. I'm going to leave the variable names length and self-documenting, because it should be that way.
+
+##### 11:06 PM
+
+Done. Chat with y'all tomorrow.
+[Proof](https://github.com/stephenjfox/functional-javascript/blob/compose-point-free/compose/compose-test.js)
+

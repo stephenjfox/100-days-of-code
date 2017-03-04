@@ -506,3 +506,32 @@ Thanks to the REPL, I figured it out. Then it was just some tweaking. I'm going 
 Done. Chat with y'all tomorrow.
 [Proof](https://github.com/stephenjfox/functional-javascript/blob/compose-point-free/compose/compose-test.js)
 
+
+### Day 30: March 3, 2017
+
+Reading the [30 Days of React book](https://www.fullstackreact.com/30-days-of-react/)(by the [FullStack React](https://www.fullstackreact.com/) crew). I used to take notes while reading, so I'll do that here.
+
+__Lesson 01__: "Look how cool it is to have HTML in a script tag!!!" -\_\_- I'm not impressed. I've read the book before, so I know it gets better. Just a bumpy start.
+
+__Lesson 02__:
+
+Okay, cool. We're using ES6 classes (maybe that's why I put it down the last time?). A brief explanation of what the transipling process (I learned this during a conference talk, so the repetition is pushing me to the "burden of knowledge" territory).
+
+"Tune in next time to actually start writing some code" :P Sure thing, [Ari](https://twitter.com/auser)
+
+__Lesson 03__:
+
+Something that's really _awesome_ about this book is that he starts with a "browser-first" approach. You can put the code on a server, and you __will__ see that "Hello World". It's a nice touch. I think I'll hop in now.
+
+I've initialized a local Git repo, with just a single `index.html` file in it.
+
+[7 minutes, 40s later] Took me a bit to type out the html, check the cdn's, and fix typos. It's neat that this "just works".
+- Page speed: First (meaningful) paint in 250ms. That's hot sauce.
+
+I'm taking a second to read about [React v15.4](https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html).
+
+I'm settled that Atom (the editor) has better coloring for React development. If only I could get Ctrl+DEL working better...
+
+Read [this](https://facebook.github.io/react/docs/react-without-es6.html) in protest of ES6 classes :P I'll learn it anyway, becaus e that's what my side-project team is going to be using.
+
+I should have a Git repo for this... 10 minutes of fighting with Windows, SSH keys, and GitHub...

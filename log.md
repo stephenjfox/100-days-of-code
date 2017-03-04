@@ -535,3 +535,26 @@ I'm settled that Atom (the editor) has better coloring for React development. If
 Read [this](https://facebook.github.io/react/docs/react-without-es6.html) in protest of ES6 classes :P I'll learn it anyway, becaus e that's what my side-project team is going to be using.
 
 I should have a Git repo for this... 10 minutes of fighting with Windows, SSH keys, and GitHub...
+
+
+__Lesson 04__:
+
+I just learned something I __REALLY__ didn't want to learn this evening, and lost 2 hours because I was letting it disturb my inner peace.
+
+https://help.github.com/articles/error-permission-denied-publickey/
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#generating-a-new-ssh-key
+http://stackoverflow.com/questions/34638462/using-git-with-ssh-agent-on-windows
+
+And remember if you set a password on an SSH key. I spent just an hour trying to figure out why the key wouldn't get added to the agent. The whole time, `posh-git` was just failing silently on the lack of a password for the key.
+
+----
+
+And now to start the lesson.
+
+...
+
+Funny enough, he starts referencing CSS in the code, but doesn't include a stylesheet link. Time to check the official blog...
+
+He's pulling in Boostrap (the enemy) and what not. It's okay with me.
+
+What's the deal with loading? I'll figure that out when I get back.
